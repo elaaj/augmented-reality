@@ -22,7 +22,7 @@ The **main.ipynb** jupyter notebook contains the code to track objects in a vide
   [[1.66750771e+03 0.00000000e+00 9.54599045e+02]
   [0.00000000e+00 1.66972683e+03 5.27926123e+02]
   [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
--*distortion*:
+- *distortion*:
   [ 1.16577217e-01 -9.28944623e-02
   7.15149511e-05 -1.80025974e-03
   -1.24761932e-01]
