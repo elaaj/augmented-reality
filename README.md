@@ -7,7 +7,6 @@ Computer vision project focused on augmented reality using marker detector and p
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#usage)
-- [License](#license)
 
 
 ## Requirements
