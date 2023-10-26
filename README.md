@@ -12,7 +12,7 @@ Computer vision project focused on augmented reality using marker detector and p
 ## Requirements
 
 This repository contains the source code for Assignment 3 of Geometric and 3D Computer Vision course. It aims at performing an augmented reality by 
-using marker point coordinates detected in the previous assignment, repository [Inserire repo nome 2 Assignment], to compute marker pose and project 
+using marker point coordinates detected in the previous assignment, repository [polygonal-marker-detector], to compute marker pose and project 
 a virtual cube on top of a rotating object using augmented reality techniques. 
 
 ## Description:
@@ -30,11 +30,14 @@ The **main.ipynb** jupyter notebook contains the code to track objects in a vide
 
 ## Installation
 
-In order to run this project it's required a Python 3 installation, along with the following python modules:
+Before of running the main notebook, there are some requirements:
+- Python 3.
+- The following python modules:
 ```bash
 pip install opencv-python
 pip install numpy
 ```
+- The dataset folder, which can be downloaded [here](https://github.com/elaaj/binary-video-segmentation/tree/main/data).
 
 ## Usage
 
